@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\programming\CastleFight\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="977576523856e97b57caf889c55b0212b70c4698">
+        <dex dex="D:\programming\CastleFight\android\build\intermediates\pre-dexed\debug\core-1.0_111910cbad4e46d8c7afe21ab2715f0fa9c53b9a.jar" />
+    </item>
+
+</items>
