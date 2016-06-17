@@ -1,0 +1,89 @@
+
+ranger.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ra0
+  rotate: false
+  xy: 1, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ra1
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ra2
+  rotate: false
+  xy: 103, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rd0
+  rotate: false
+  xy: 103, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rd1
+  rotate: false
+  xy: 205, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rd2
+  rotate: false
+  xy: 205, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rd3
+  rotate: false
+  xy: 307, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rw0
+  rotate: false
+  xy: 307, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rw1
+  rotate: false
+  xy: 409, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rw2
+  rotate: false
+  xy: 409, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rw3
+  rotate: false
+  xy: 511, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rw4
+  rotate: false
+  xy: 511, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
